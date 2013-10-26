@@ -1,0 +1,7 @@
+Brian industries is a company that turns chocolate milk into penut butter.  Brian is 
+the owner of that company.  Joe has infultrated Brian industries as the website developer 
+under the orders of some unknown organization who refer to Joe as SgtJoeGetWrecked.
+Joe will attempt to sabotage the company by ruining the company website and blame it on 
+hackers as Brian easily reverts the damage via the magical time machine that Github 
+provides.  In the end SgtJoeGetWrecked is left with bitter resentment for Github and 
+he can't do anything about it.
